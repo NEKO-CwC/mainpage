@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+.workflow/
+.deploy-*
+backups/
+design/evidence/
+design-demos/

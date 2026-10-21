@@ -1,0 +1,13 @@
+**
+!Dockerfile
+!package.json
+!index.html
+!tokens.css
+!styles.css
+!site-config.js
+!assets/
+!assets/main.js
+!scripts/
+!scripts/*.cjs
+!deploy/
+!deploy/Caddyfile
