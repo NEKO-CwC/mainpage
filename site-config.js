@@ -1,4 +1,3 @@
-// Supply one real destination: mailto:name@domain.tld or an absolute https URL.
-// Empty or invalid values leave the call request preview as the next step.
-// This optional contact link is separate from the locally prepared request; no data is sent.
-window.NCUHOME_CONFIG = Object.freeze({ contactDestination: '' });
+// Primary studio contact. Call requests are sent in the visitor's email app;
+// the NCUHOME LLC team replies by email to confirm a time.
+window.NCUHOME_CONFIG = Object.freeze({ contactDestination: 'mailto:customer@neko-cwc.com' });
